@@ -7,9 +7,9 @@ FOR EXECUTING:
 MY PROGRESS
 1.  Time Complexity\
     |- [✅]subArrayProblemTwo O(n^2)\
-    |- [❌]subArrayProblemThree O(n)\
+    |- [❌]subArrayProblemThree O(n)
 2.  Sorting\
     |- [✅]bubbleSort\
     |- [❌]mergeSort\
     |- [✅]binarySearchRecursive\
-    |- [✅]binarySearchIterative\
+    |- [✅]binarySearchIterative
