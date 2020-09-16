@@ -6,10 +6,18 @@ FOR EXECUTING:
 
 MY PROGRESS
 1.  Time Complexity\
-    |- [✅]subArrayProblemTwo O(n^2)\
-    |- [❌]subArrayProblemThree O(n)
+    |-[✅]  subArrayProblemTwo O(n^2)\
+    |-[❌]  subArrayProblemThree O(n)
 2.  Sorting\
-    |- [✅]bubbleSort\
-    |- [❌]mergeSort\
-    |- [✅]binarySearchRecursive\
-    |- [✅]binarySearchIterative
+    |-[✅]  bubbleSort\
+    |-[❌]  mergeSort\
+    |-[✅]  binarySearchRecursive\
+    |-[✅]  binarySearchIterative
+3.  Data Structure\
+    |-[✅]  comparisonString\
+    |-[🔖]  LINKED LIST\
+            |-[🔖]  SINGLE LINKED LIST\
+                    |-[] \
+            |-[🔖]  DOUBLE LINKED LIST\
+                    |-[] \
+    |-[🔖]  STACK\
