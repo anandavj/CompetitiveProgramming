@@ -17,7 +17,17 @@ MY PROGRESS
     |-[✅]  comparisonString\
     |-[🔖]  LINKED LIST\
             |-[🔖]  SINGLE LINKED LIST\
-                    |-[] \
+                    |-[🔖]  CIRCULAR\
+                          |-[]  head\
+                          |-[]  headTail\
+                    |-[🔖]  NON CIRCULAR\
+                          |-[]  head\
+                          |-[]  headTail\
             |-[🔖]  DOUBLE LINKED LIST\
-                    |-[] \
+                    |-[🔖]  CIRCULAR\
+                          |-[]  head\
+                          |-[]  headTail\
+                    |-[🔖]  NON CIRCULAR\
+                          |-[]  head\
+                          |-[]  headTail\
     |-[🔖]  STACK\
